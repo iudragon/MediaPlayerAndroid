@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="label_play">play</string>
+    <string name="label_pause">pause</string>
+    <string name="label_next">next</string>
+    <string name="label_prev">previous</string>
+</resources>
